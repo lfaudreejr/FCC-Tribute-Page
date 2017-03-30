@@ -1,0 +1,24 @@
+body {
+  margin: 60px auto 0px auto;
+}
+.jumbotron, .jumbotron h1, .jumbotron p {
+  text-align: center;
+}
+.jumbotron img {
+  width: 50%;
+  height: auto;
+}
+.row {
+  margin-top: 60px;
+}
+h2, h3, h4, h5, h6 {
+  margin: 30px;
+}
+*p {
+  margin: 30px;
+  text-align: left;
+}
+.thumbnail .ignatius {
+  width: 100%;
+  height: auto;
+}
